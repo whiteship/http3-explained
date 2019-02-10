@@ -56,7 +56,7 @@ HTTP보다 더 많이 보내야 한다는 요구를 만족시키기 위해 IETF 
 이는 나중에 2019년 7월로 연기되었다.
 
 IETF-QUIC 작업이 진행되는 동안 Google 팀은 IETF 버전의 세부 내용을 받아들였고
-IETF 버전이 만들어질 방향으로 Google 버전의 프로토콜을 천천히 발전하시켰다.
+IETF 버전이 만들어질 방향으로 Google 버전의 프로토콜을 천천히 발전시켰다.
 Google은 자사의 브라우저와 서비스에서 QUIC의 Google 버전을 계속해서 사용하고 있다.
 
 [개발 중인 대부분의 새로운 구현](https://github.com/quicwg/base-drafts/wiki/Implementations)은
